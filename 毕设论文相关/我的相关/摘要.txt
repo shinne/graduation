@@ -1,0 +1,61 @@
+石思优.基于主题模型的医疗数据挖掘研究[D].广东技术师范学院,2015
+马灿.国内外医疗大数据资源共享比较研究[J]. 情报资料工作,2016,(03):63-67
+曹德贤. 寄语“十二五”医疗卫生信息化[J]. 中国数字医学,2011,(01):9
+Han J, Pei J, Kamber M. Data mining: concepts and techniques[M]. Elsevier, 2011
+李惠先,封二英.大数据时代医学研究面临的机遇与挑战[J]. 计算机光盘软件与应用,2014,(23):138-139
+Kop R, Hoogendoorn M, ten Teije A, et al. Predictive modeling of colorectal cancer using a dedicated pre-processing pipeline on routine electronic medical records[J]. Computers in biology and medicine, 2016, 76: 30-38
+Marques F J, Moutinho A, Vieira S M, et al. Preprocessing of Clinical Databases to improve classification accuracy of patient diagnosis[J]. IFAC Proceedings Volumes, 2011, 44(1): 14121-14126
+林予松,王培培,刘炜,李润知,王宗敏.医疗体检数据预处理方法研究[J]. 计算机应用研究,2017,(04):1-5
+Hoshyar A N, Al-Jumaily A, Hoshyar A N. The Beneficial Techniques in Preprocessing Step of Skin Cancer Detection system Comparing[J]. Procedia Computer Science, 2014, 42: 25-31
+白凤伟.数据预处理系统的几个关键技术研究与实现[D].北京交通大学,2012
+Croy Calvin D,Novins Douglas K.Imputing Missing Data[J].Journal of the American Academy of Child &Adolescent Psychiatry.2004;43(4):380-381
+Clarke B, Fokoue E, Zhang H H. Principles and theory for data mining and machine learning[M]. Springer Science & Business Media, 2009
+Fodor I K. A survey of dimension reduction techniques[J]. 2002
+GILLES J. Empirical Wavelet Transform[J]. IEEE Transactions on Signal Processing, 2013, 61(16): 3999-4010
+B.Principal component analysis in linear systems: Controllability, observability, and model reduction. Automatic Control on IEEE Transactions, 1981, 26(1):17-32
+Baldacci L., M. Golfarelli, A. Lumini, et al. Clustering techniques for protein surfaces. Pattern Recognition, 2006, 39(12): 2370-2382
+Gupta A, Mehrotra K, Mohan C. A clustering based discretization for supervised leaming[J]. Statisticsand Probability Letters, 2009, 80(9-10):816-824
+Kerber R.Chimerge: discretization of numeric attributes[C]. Proceedings of Ninth National Conference on Artificial Intelligence, San Jose, California, AAAI Press. 1992; 123-128
+刁树民,于忠清. 概念分层在人口普查数据中的应用[J]. 现代电子技术,2006,(20):47-49
+李圣瑜. 调查数据缺失值的多重插补研究[D].河北经贸大学,2015
+Cover T M. Rates of convergence for nearest neighbor procedures[C]//Proceedings of the Hawaii International Conference on Systems Sciences. 1968: 413-415
+Kim C, Hwang K B. Naive Bayes classifier learning with feature selection for spam detection in social bookmarking[J]. ECML PKDD Discovery Challenge 2008, 2008: 32
+Apte C, Damerau F, Weiss S. Text mining with decision rules and decision trees[M]. IBM Thomas J. Watson Research Division, 1998
+T.Joachims. Text categorization  with support vector machines:Learning With Many Relevant Features.In Proceedings of 10th European Conference on Machine Learning,1998:137-142
+C.Hsu, C.Lin. A comparison on methods for multi-class support vector machines, IEEE Transactions on Neural Networks.2002,13:415-425
+E.Wiener.A neural network approach to topic spotting. In Proceeding of the 4th Annual Symposium on Document Analysis and Information Retrieval(SDAIR95),Las Vegas,NV,1995
+Freund Y, Schapire R E. Experiments with a new boosting algorithm[C]//Icml. 1996, 96: 148-156
+Anzai Y. Pattern Recognition & Machine Learning[M]. Elsevier, 2012
+Stone C J. Classification and regression trees[J]. Wadsworth International Group: Belmont, California, 1984
+Breiman L. Bagging predictors[J]. Machine learning, 1996, 24(2): 123-140
+张海玉. 基于随机森林模型的缺失数据填补方法的研究[D]. 哈尔滨医科大学, 2012.，曹正凤. 随机森林算法优化研究[D].首都经济贸易大学,2014
+Breiman L. Random forests [J]. Machine learning, 2001, 45(1): 5-32
+贺捷. 随机森林在文本分类中的应用[D].华南理工大学,2015
+Ho T K. The random subspace method for constructing decision forests[J]. IEEE transactions on pattern analysis and machine intelligence, 1998, 20(8): 832-844
+Weiss G M. Mining with rarity: a unifying framework[J]. ACM SIGKDD Explorations Newsletter, 2004, 6(1): 7-19
+吴琼,李运田,郑献卫. 面向非平衡训练集分类的随机森林算法优化[J]. 工业控制计算机,2013,(07):89-90
+Schapire R E. Pattern Languages are not Learnable[C]//COLT. 1990: 122-129 || Schapire R E. The strength of weak learnability[J]. Machine learning, 1990, 5(2): 197-227
+Chawla N V, Bowyer K W, Hall L O, et al. SMOTE: synthetic minority over-sampling technique[J]. Journal of artificial intelligence research, 2002, 16: 321-357
+Bache K, Lichman M. UCI machine  learning repository[J]. School of Information and Computer Science, University of California, Irvine, CA
+Maratea A, Petrosino A, Manzo M. Adjusted F-measure and Kernel Scaling for Imbalanced Data Learning[J]. Information Sciences, 2013
+Tay F E H, Shen L. A modified chi2 algorithm for discretization[J]. IEEE Transactions on knowledge and data engineering, 2002, 14(3): 666-670
+Wang J. Geometric structure of high-dimensional data and dimensionality reduction[M]. Springer Berlin Heidelberg, 2011
+Yin Z, Zhang J. Identification of temporal variations in mental workload using locally-linear-embedding-based EEG feature reduction and support-vector-machine-based clustering and classification techniques[J]. Computer methods and programs in biomedicine, 2014, 115(3): 119-134
+Schizas I D, Giannakis G B, Luo Z Q. Distributed estimation using reduced-dimensionality sensor observations[J]. IEEE Transactions on Signal Processing, 2007, 55(8): 4284-4299
+Duda R, Hart P. andD. Stork, Pattern classification[J]. 2000
+Huang S, Ward M O, Rundensteiner E A. Exploration of dimensionality reduction for text visualization[C]//Coordinated and Multiple Views in Exploratory Visualization (CMV'05). IEEE, 2005: 63-74
+He X, Cai D, Han J. Learning a maximum margin subspace for image retrieval[J]. IEEE Transactions on Knowledge and Data Engineering, 2008, 20(2): 189-201
+Pearson K. LIII. On lines and planes of closest fit to systems of points in space[J]. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, 1901, 2(11): 559-572
+Haeb-Umbach R,Ney H.Linear discriminant analysis for improved large vocabulary continuous speech recognition.Acoustics,Speech,and Signal Processing.International Conference on IEEE,1992,1:13-16
+Kruskal J B. Nonmetric multidimensional scaling: a numerical method[J]. Psychometrika, 1964, 29(2): 115-129
+王靖.流形学习的理论与方法研究[D].浙江大学,2006
+龚铁梁. 数据降维算法研究及其应用[D].湖北大学,2012 || 王靖. 流形学习的理论与方法研究[D].浙江大学,2006
+Tenenbaum J B. The Isomap Algorithm and Topological Stability[J]. Science, 2002, 295(5552): 7a
+Silva V, Langford J C. A global geometric framework for nonlinear dimensionality reduction[J]. science, 2000, 290(5500): 2319-2323
+Belkin M, Niyogi P. Laplacian eigenmaps for dimensionality reduction and data representation[J]. Neural computation, 2003, 15(6): 1373-1396
+Roweis S T, Saul L K. Nonlinear dimensionality reduction by locally linear embedding[J]. Science, 2000, 290(5500): 2323-2326
+王勇.局部线性嵌入算法的稳健性改进及有监督扩展[D].国防科学技术大学,2007
+Roweis S T, Saul L K. Nonlinear dimensionality reduction by locally linear embedding[J]. Science, 2000, 290(5500): 2323-2326
+Saul L K, Roweis S T. Think globally, fit locally: unsupervised learning of low dimensional manifolds[J]. Journal of Machine Learning Research, 2003, 4(Jun): 119-155
+De Ridder D, Duin R P W. Locally linear embedding for classification[J]. Pattern Recognition Group, Dept. of Imaging Science & Technology, Delft University of Technology, Delft, The Netherlands, Tech. Rep. PH-2002-01, 2002: 1-12
+Kouropteva O, Okun O, Pietik?inen M. Selection of the optimal parameter value for the locally linear embedding algorithm[J]. FSKD, 2002, 2
